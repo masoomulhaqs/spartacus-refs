@@ -40,3 +40,9 @@ Few useful references to start with Spartacus development
 
 - SAP Commerce Cloud - https://sap.github.io/spartacus-docs/installing-sap-commerce-cloud-1905/
 - Angular Storefront - https://sap.github.io/spartacus-docs/building-the-spartacus-storefront-from-libraries/
+
+### Sample Data Addons
+
+- All - https://github.com/SAP/spartacus/releases/tag/core-2.0.0
+- For 1905 - https://github.com/SAP/spartacus/releases/download/core-2.0.0/spartacussampledataaddon.1905.zip
+- For 2005 - https://github.com/SAP/spartacus/releases/download/core-2.0.0/spartacussampledataaddon.2005.zip
