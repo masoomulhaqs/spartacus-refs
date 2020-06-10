@@ -34,6 +34,7 @@ Few useful references to start with Spartacus development
 ### Important Links
 
 - Documentation - https://sap.github.io/spartacus-docs/installing-sap-commerce-cloud/
+- Library Reference - https://sap.github.io/spartacus/
 - Repo - https://github.com/SAP/spartacus
 - Demo - https://spartacus.c39j2-walkersde1-d4-public.model-t.cc.commerce.ondemand.com/electronics-spa/en/USD/
 
