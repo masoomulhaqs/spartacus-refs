@@ -35,8 +35,8 @@ Few useful references to start with Spartacus development
 
 - Documentation - https://sap.github.io/spartacus-docs/installing-sap-commerce-cloud/
 - Library Reference - https://sap.github.io/spartacus/
-- Repo - https://github.com/SAP/spartacus
-- Demo - https://spartacus.c39j2-walkersde1-d4-public.model-t.cc.commerce.ondemand.com/electronics-spa/en/USD/
+- Gihub Repository - https://github.com/SAP/spartacus
+- Demo Site - https://spartacus.c39j2-walkersde1-d4-public.model-t.cc.commerce.ondemand.com/electronics-spa/en/USD/
 
 ### Installation
 
@@ -45,6 +45,11 @@ Few useful references to start with Spartacus development
 
 ### Sample Data Addons
 
-- For all versions - https://github.com/SAP/spartacus/releases/tag/core-2.0.0
+- For all releases - https://github.com/SAP/spartacus/releases
 - For 1905 - https://github.com/SAP/spartacus/releases/download/core-2.0.0/spartacussampledataaddon.1905.zip
 - For 2005 - https://github.com/SAP/spartacus/releases/download/core-2.0.0/spartacussampledataaddon.2005.zip
+
+## Unofficial References
+
+- https://masoomulhaq.com/series/spartacus/
+
